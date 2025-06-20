@@ -7,6 +7,7 @@
 
 
 - 🔭 I’m currently working on [SQL IntelliBot: Interactive Query Generator](https://github.com/Guruprasadbhat2003/SQL-IntelliBot.git)
+- 🔭 I’m currently working on [SPRING BOOT & DSA]
 
 
 - 🌱 I’m currently learning **artificial intelligence and machine learning and also backend integration**
